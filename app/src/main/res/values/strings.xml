@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentApp</string>
+    <string name="hello_world" translatable="false">bienvenue</string>
+</resources>
